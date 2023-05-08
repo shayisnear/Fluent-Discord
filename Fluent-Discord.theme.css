@@ -22,15 +22,7 @@
   * You can change the accent colour by using the Colour Selector tool: https://takosthings.github.io/Fluent-Discord/color.html
 **/
 :root {
-  /* DefaultBlue */
-  --fluent-accent-hue-sat: 207, 100%;
-  --fluent-accent-lightness: 42%;
-  --fluent-text-on-accent-color: 0, 0, 0;
-  --fluent-acrylic-background: 
-  --fluent-acrylic-background-blur: 24px;
-  --fluent-acrylic-background-dimness: 75%;
-  --fluent-acrylic-background-saturate: 140%;
-  --fluent-guilds-icon-size: 24px;
+ 
 }
 
 /**
